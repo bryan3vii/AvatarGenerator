@@ -1,0 +1,45 @@
+Do you enjoy adventures in the wilderness?|Explorer,Adventurer
+Do you find joy in helping others?|Caregiver,Hero
+Are you often the life of the party?|Jester,Socialite
+Do you stick to a plan or schedule?|Planner,Ruler
+Do you challenge authority?|Rebel,Outlaw
+Do you enjoy exploring new ideas or concepts? | Explorer, Magician
+Are you nurturing and protective of those around you? | Caregiver, Guardian
+Do you prioritize romantic relationships in your life? | Lover, Seducer
+Do you often offer advice and guidance to others? | Mentor, Herald
+Are you known for your sense of humor and playful nature? | Jester, Clown
+Do you have a strong sense of curiosity and a desire for knowledge? | Explorer, Magician
+Are you content with blending into the background? | Everyman, Innocent
+Do you believe in the power of manifestation and intention? | Magician, Trickster
+Do you see yourself as an average person, representative of the common man? | Everyman, Protagonist
+Do you seek control and authority in your personal or professional life? | Ruler, Boss
+Are you drawn to roles where you can be the antagonist or cause conflict? | Villain, Antagonist
+Do you enjoy playing pranks or tricks on others? | Trickster, Jester
+Are you skilled in combat or martial arts? | Warrior, Guardian
+Do you excel in leadership roles and take charge of situations? | Boss, Ruler
+Are you loyal and supportive of those in positions of power? | Sidekick, Guardian
+Do you often herald news or announcements to others? | Herald, Messenger
+Are you skilled in the art of persuasion and seduction? | Seducer, Trickster
+Do you find satisfaction in breaking the rules or defying societal norms? | Outlaw, Rebel
+Are you passionate about expressing yourself through art or creativity? | Artist, Clown
+Do you thrive on chaos and unpredictability? | Trickster, Jester
+Are you driven by a sense of justice and righteousness? | Hero, Guardian
+Do you enjoy the thrill of competition and challenging others? | Warrior, Antagonist
+Are you drawn to roles where you can protect or defend others? | Guardian, Hero
+Do you prefer to work behind the scenes rather than take center stage? | Sidekick, Everyman
+Are you often the bearer of bad news or warnings? | Herald, Messenger
+Do you have a magnetic personality that draws others to you? | Seducer, Leader
+Do you enjoy pushing the boundaries and testing limits? | Outlaw, Rebel
+Are you skilled at entertaining and making people laugh? | Clown, Jester
+Are you skilled in the art of deception and manipulation? | Trickster, Villain
+Are you known for your bravery and courage in the face of danger? | Hero, Warrior
+Do you prefer to work independently rather than as part of a team? | Outlaw, Explorer
+Are you often the voice of reason and wisdom among your friends? | Mentor, Sage
+Are you skilled at reading people and understanding their motivations? | Magician, Mentor
+Do you enjoy stirring up trouble or causing chaos? | Trickster, Villain
+Are you drawn to roles where you can be the center of attention? | Leader, Protagonist
+Do you have a rebellious streak and resist authority? | Rebel, Outlaw
+Are you drawn to roles where you can challenge societal norms? | Activist, Rebel
+Do you enjoy playing the role of the underdog or outsider? | Outlaw, Everyman
+Are you drawn to roles where you can embody the spirit of revolution? | Rebel, Activist
+Do you enjoy creating mischief and stirring up trouble? | Trickster, Jester
