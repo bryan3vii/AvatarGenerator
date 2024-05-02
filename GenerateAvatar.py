@@ -2,6 +2,9 @@ import PySimpleGUI as sg
 import random
 import simpleaudio as sa
 import statistics
+import webbrowser
+from openai import OpenAI
+client = OpenAI(api_key="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")
 
 # Load the game music
 wave_obj = sa.WaveObject.from_wave_file('game_music.wav')  # music file
@@ -149,7 +152,16 @@ def main():
                 elif event == 'Next':
                     archetype = calculate_archetype('questions.txt')  # Pass the file containing questions
                     if archetype:
+                        response = client.images.generate(
+                                    model="dall-e-3",
+                                    prompt=archetype,
+                                    size="1024x1024",
+                                    quality="standard",
+                                    n=1,
+                                )
+                        image_url = response.data[0].url
                         sg.popup("Your character archetype is:", archetype)
+                        webbrowser.open(image_url)
         elif event == 'ABOUT':
             main_window.hide()
             about_page = create_about_page()

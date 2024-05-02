@@ -1,4 +1,7 @@
 Files in the repo:
+
+Requirements: Used to install required libraries
+
 AnswersWdescription: Used only to gauge out potential ways to make the avatar generator
 
 Questions: Used only to gauge out potential ways to make the avatar generator
@@ -9,9 +12,7 @@ GenerateAvatar.py: main driver code
 
 How to use: 
 Install:
-    " python3 -m pip install pysimplegui " 
-
-    " pip install simpleaudio "
+    pip install -r .\requirements.txt
 
 
 
