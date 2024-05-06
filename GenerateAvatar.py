@@ -4,7 +4,7 @@ import simpleaudio as sa
 import statistics
 import webbrowser
 from openai import OpenAI
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="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") # this might not work with everyone
 
 # Load the game music
 wave_obj = sa.WaveObject.from_wave_file('game_music.wav')  # music file
